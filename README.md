@@ -1,1 +1,15 @@
 # AjxHowe.github.io
+<body style="background-image: url(https://raw.githubusercontent.com/AjxHowe/AjxHowe.github.io/main/IronAlone.jpg);">
+<div style="text-align: center;"><big><big>Welcome to my little corner of the Internet!<br>
+There's not much here right now, but maybe one day I'll add something interesting.<br>
+I have many Hobbies, such as Robotics, Programming, Photography, Music Production, and the likes.<br>
+So I imagine I'll definitely have content to share one day.<br>
+<br>
+Thank you for stopping by!<br>
+-Alex<br>
+&nbsp;<br>
+Aka Lokiander</big></big><br>
+
+
+</div>
+</body>
